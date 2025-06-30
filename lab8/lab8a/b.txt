@@ -1,0 +1,1 @@
+negative is positive minus 2 * its self
